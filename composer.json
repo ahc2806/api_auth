@@ -1,0 +1,12 @@
+{
+    "name": "alohe/usuarios",
+    "description": "API para autorizacion de usuarios en conexion de Sakila",
+    "license": "MIT",
+    "authors": [{
+        "name": "ahc2806",
+        "email": "alonsohernandezcortez@gmail.com"
+    }],
+    "require": {
+        "firebase/php-jwt": "^5.2"
+    }
+}
